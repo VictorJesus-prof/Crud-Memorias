@@ -58,4 +58,4 @@ Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais 
 Projeto desenvolvido em parceria por:
 
 - **Victor Jesus da Silveira** — [GitHub](https://github.com/VictorJesus-prof)
-- **Omar Tehcin El Wanni** — [GitHub](https://github.com/0marram0)
+- **Omar Tehcin El Wanni**
