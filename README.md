@@ -1,4 +1,4 @@
-# 💜 Crud-Memorias
+# Crud-Memorias
 
 Sistema web para cadastro e organização de memórias de relacionamento, desenvolvido como projeto prático durante o curso Técnico em Desenvolvimento de Sistemas (IFPR).
 
@@ -39,7 +39,7 @@ Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais 
    ```bash
    git clone https://github.com/VictorJesus-prof/Crud-Memorias.git
    ```
-2. Importe o banco de dados MySQL (arquivo `.sql`, se disponível no repositório) para o seu servidor local.
+2. Importe o banco de dados MySQL (arquivo `.sql`) para o seu servidor local.
 3. Configure as credenciais de conexão com o banco de dados no arquivo de configuração do projeto.
 4. Coloque a pasta do projeto no diretório do seu servidor local (ex: `htdocs` do XAMPP).
 5. Acesse pelo navegador, por exemplo:
@@ -53,7 +53,9 @@ Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais 
 - [ ] Adicionar autenticação de usuário
 - [ ] Deploy online do projeto
 
-## 👤 Autor
+## 👥 Autores
 
-Desenvolvido por **Victor Jesus da Silveira**
-[GitHub](https://github.com/VictorJesus-prof)
+Projeto desenvolvido em parceria por:
+
+- **Victor Jesus da Silveira** — [GitHub](https://github.com/VictorJesus-prof)
+- **Omar Tehcin El Wanni** — [GitHub](https://github.com/0marram0)
